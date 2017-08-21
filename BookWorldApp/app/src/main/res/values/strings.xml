@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookWorldApp</string>
+    <string name="search_title">Book title</string>
+    <string name="search_author">Author name</string>
+    <string name="button_name">Search</string>
+    <string name="search_msg">"Searching for: " </string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="progress_msg">"Searching" </string>
+    <string name="connection_msg">"No Internet Connection"</string>
+    <string name="no_search_msg">"Nothing to search for..."</string>
+    <string name="search_hint">"Search by Title/Author..."</string>
+    <!-- Subtitle text for the empty view that informs the user how to populate the list -->
+    <string name="empty_view_subtitle_text">Search for books using a word or a phrase in the search box on top and by pressing the search button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
